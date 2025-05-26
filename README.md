@@ -71,12 +71,6 @@ Here are some key projects I've worked on during my training at ITI:
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman-abobakr&show_icons=true&theme=radical)
-
----
-
 ### 🤝 Let's Connect!
 
 Feel free to reach out for collaborations or just to say hi!  
