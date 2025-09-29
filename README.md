@@ -2,7 +2,7 @@
 
 ### Open Source Full-Stack Web Developer
 
-📍 **Location:** Minya, Egypt  
+📍 **Location:** Cairo, Egypt  
 📧 **Email:** abdelrahmanabobakrzaki@gmail.com  
 📞 **Phone:** +201151204792  
 🔗 **LinkedIn:** [linkedin.com/in/abdelrahman-abobakr](https://linkedin.com/in/abdelrahman-abobakr)  
