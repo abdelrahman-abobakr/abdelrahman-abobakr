@@ -46,6 +46,10 @@ I am a graduate of the Faculty of Computers and Information, with further specia
 
 ## 💼 Experience
 
+- **Fassla**  
+  Full Stack developer 
+  *July 2025 – present*  
+
 - **Lawazmak Website**  
   WordPress Developer  
   *May 2024 – July 2024*  
@@ -53,10 +57,6 @@ I am a graduate of the Faculty of Computers and Information, with further specia
 - **Prameg**  
   Laravel PHP developer 
   *July 2023 – March 2024*  
-
-- **Fassla**  
-  Full Stack developer 
-  *July 2025 – present*  
 
 ---
 
