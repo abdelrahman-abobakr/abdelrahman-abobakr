@@ -48,7 +48,7 @@ I am a graduate of the Faculty of Computers and Information, with further specia
 
 - **Fassla**  
   Full Stack developer 
-  *July 2025 – present*  
+  *July 2025 – March 2026*  
 
 - **Lawazmak Website**  
   WordPress Developer  
