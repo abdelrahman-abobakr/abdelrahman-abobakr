@@ -2,9 +2,9 @@
 
 ### Open Source Full-Stack Web Developer
 
-📍 **Location:** Cairo, Egypt  
+📍 **Location:** Jeddah, Saudi Arabia  
 📧 **Email:** abdelrahmanabobakrzaki@gmail.com  
-📞 **Phone:** +201151204792  
+📞 **Phone:** +966563485630  
 🔗 **LinkedIn:** [linkedin.com/in/abdelrahman-abobakr](https://linkedin.com/in/abdelrahman-abobakr)  
 
 ---
